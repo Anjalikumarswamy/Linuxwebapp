@@ -5,9 +5,8 @@
  <body>
 <center><b>
  <?php 
-echo "WELCOME TO AZURE APP SERVICE" ;
+echo WELCOME TO AZURE APP SERVICE ;
 <h1>Hello</h1>
 ?> 
-</b></center>
  </body>
 </html> 
