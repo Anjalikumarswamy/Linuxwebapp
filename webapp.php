@@ -3,10 +3,9 @@
   <title>PHP Test</title>
  </head>
  <body>
-<center><b>
  <?php 
-echo WELCOME TO AZURE APP SERVICE ;
-<h1>Hello</h1>
+echo <p><center><b>WELCOME TO AZURE APP SERVICE</b></center></p>
+<h3>Hello</h3>
 ?> 
  </body>
 </html> 
